@@ -1,1 +1,3 @@
 # linkedData
+
+For research purposes
